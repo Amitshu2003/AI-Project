@@ -1,1 +1,1 @@
-# AI-Project
+# Handwritten Character Recognition System
